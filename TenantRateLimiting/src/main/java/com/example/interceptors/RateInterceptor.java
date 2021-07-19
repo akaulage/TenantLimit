@@ -24,7 +24,7 @@ import com.example.services.RateService;
 import com.example.utilitys.Utility;
 
 /**
- * @author vivek
+ * @author akaulage
  *
  */
 @Component

@@ -13,7 +13,7 @@ import com.example.interceptors.RateInterceptor;
 
 
 /**
- * @author vivek
+ * @author akaulage
  *
  */
 @Configuration
